@@ -1,7 +1,7 @@
 # N-Body-Problem
 A Python N-Body solution
 ![OrbitInital](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Orbit.png)
-![OrbitDragged](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Drag.png)
+![OrbitDragged](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Dragged.png)
 ![OrbitGone](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Gravitational%20Boost.png)
 
 ## Implementation
