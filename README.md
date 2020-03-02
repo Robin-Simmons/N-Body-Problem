@@ -1,5 +1,6 @@
 # N-Body-Problem
 A Python N-Body solution
+
 ![OrbitInital](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Orbit.png)
 
 
@@ -12,3 +13,4 @@ The RK4 integrator only calculates forces on the "ship" due to the Moon and Eart
 
 ![OrbitGone](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Gravitational%20Boost.png)
 So far the program is fixed at 3 bodies. This can be increased with a rewritten integrator.
+
