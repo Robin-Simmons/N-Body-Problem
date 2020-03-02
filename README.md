@@ -1,7 +1,8 @@
 # N-Body-Problem
 A Python N-Body solution
-
-![Orbit](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Gravitational%20Boost.png)
+![OrbitInital](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Orbit.png)
+![OrbitDragged](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Drag.png)
+![OrbitGone](https://github.com/Robin-Simmons/N-Body-Problem/blob/master/Gravitational%20Boost.png)
 
 ## Implementation
 The integration method implemented so far is RK4, however leapfrog integration is planned as well. The simulation works by specifying creating objects with the "body" class, which have attributes such as inital velocity, position and mass. The animation function then passes those values to a RK4 integrator which calculates the forces on each body and integrates one timestep. Multiple timesteps can be done per animation step, to allow better precision.
